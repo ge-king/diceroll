@@ -5,7 +5,7 @@ import discord
 # create discord client
 client = discord.Client()
 
-token = 'NzYzODI4MzkzNjY5MTY1MDY2.X39YoA.bmWJWLVeYQ2HUNo64bfEnwwZ80o'
+token = 'INSERT BOT TOKEN'
 
 # bot is ready
 @client.event
