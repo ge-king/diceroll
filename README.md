@@ -13,4 +13,4 @@ Use `pip -install discord` to install the discord dependency.
 
 Clone from this repository.
 
-Simply insert your unique discord token in the *Token* line of main .py file, and run.
+Simply insert your unique discord token in the *Token* line of the main .py file, and run.
