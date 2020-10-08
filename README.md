@@ -10,5 +10,7 @@ So, to roll five 6-sided dice, the command `!roll 5d6` would be used.
 ## Installation
 ### Dependencies
 Use `pip -install discord` to install the discord dependency.
+
 Clone from this repository.
-Simply insert your unique discord in the main .py file, and run.
+
+Simply insert your unique discord token in the *Token* line of main .py file, and run.
